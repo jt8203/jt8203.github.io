@@ -1,1 +1,18 @@
+#banner{
+  width:100%;
+  background:red;
+  font-size:50;
+  Padding:25;
+}
 
+#Nav{
+ background:blue;
+ 
+}
+
+#sidebar{
+  background:purple;
+  float:left;
+  height:300;
+}
+    
